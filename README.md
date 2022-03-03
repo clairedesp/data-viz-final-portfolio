@@ -2,7 +2,8 @@
 Chart Challenges:
 https://github.com/clairedesp/data-visualization-portfolio
 
-Addison Project:
+Group Task 1:
+https://github.com/natasha-muromceww/Addison-Group-Task/tree/main
 
 Group Task 2:
 https://github.com/natasha-muromceww/Group-Task-2
