@@ -12,7 +12,7 @@ Group Task 3:
 https://github.com/CSC630/group-task-3/tree/main/group1
 
 Individual Task 4:
-https://github.com/clairedesp/data-viz-final-portfolio/blob/master/chart.html
+https://github.com/clairedesp/data-viz-final-portfolio/blob/master/task4.html
 
 Group Task 5:
 https://github.com/natasha-muromceww/FinalProject
