@@ -1,4 +1,4 @@
-# data-viz-final-portfolio
+# CSC630 - Data Visualizaion Final Portfolio
 Chart Challenges:
 https://github.com/clairedesp/data-visualization-portfolio
 
